@@ -2,7 +2,7 @@
 ### https://excalidraw.com/#json=QuV8qHnE1B8i6h5tlKvit,vvhN8jSfC_IUtKsUQanVXw
 
 
-## Prerequisites
+## How to run
 
 * Create python virtual environment
   ```sh
@@ -14,7 +14,7 @@
   ```
 * Create "keys.py" file in main directory
 
-* Add openai api key
+* Add openai api key to keys.py file
   ```sh
   OPENAI_API_KEY = <key here>
   ```
